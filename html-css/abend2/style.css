@@ -1,4 +1,5 @@
 div.aufschnitt1 {
+    margin-left: 10px;
     background-color: coral;
 }
 p::first-line {
@@ -10,7 +11,8 @@ p::first-line {
 }
 div.aufschnitt2 {
     width: 200px;
-    margin: 10px;
+    margin-left: 10px;
+    margin-right: 20px;
     background-color: lightblue;
     float: left;
 }
