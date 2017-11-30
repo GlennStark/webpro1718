@@ -1,10 +1,15 @@
 div.aufschnitt1 {
     background-color: coral;
 }
+p::first-line {
+    color: #ff0000;
+    font-variant: small-caps;
+}
 .singer {
     background-color: brown;
 }
 div.aufschnitt2 {
+    width: 200px;
     margin: 10px;
     background-color: lightblue;
     float: left;
@@ -14,5 +19,8 @@ div.aufschnitt2 {
 }
 div.aufschnitt3 {
     text-decoration: underline;
+    margin: 20px;
+
+
 }
 
