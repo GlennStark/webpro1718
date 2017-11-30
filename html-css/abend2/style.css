@@ -5,5 +5,14 @@ div.aufschnitt1 {
     background-color: brown;
 }
 div.aufschnitt2 {
+    margin: 10px;
+    background-color: lightblue;
+    float: left;
+}
+.homer {
+    color: yellow;
+}
+div.aufschnitt3 {
     text-decoration: underline;
 }
+
