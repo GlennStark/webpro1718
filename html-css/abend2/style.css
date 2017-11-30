@@ -1,4 +1,5 @@
 div.aufschnitt1 {
+    max-height: 150px;
     margin-left: 10px;
     background-color: coral;
 }
@@ -11,31 +12,38 @@ p::first-line {
 }
 div.aufschnitt2 {
     max-width: 150px;
+    max-height: 800px;
     margin-left: 10px;
     margin-right: 20px;
     background-color: lightblue;
     float: left;
+    margin-bottom: -99999px;
+    padding-bottom: 99999px;
 }
 .homer {
     color: yellow;
 }
 div.aufschnitt3 {
     text-decoration: underline;
+    max-height: 800px;
     float: left;
     max-width: 450px;
+    margin-bottom: -99999px;
+    padding-bottom: 99999px;
 }
 div.aufschnitt4 {
-    width: 200px;
-
+    width: 300px;
     background-color: lightblue;
     float: left;
+    margin-bottom: -99999px;
+    padding-bottom: 99999px;
 }
 .clearfix {
     clear: both;
 }
 
-.footer {
-    max-width: 800px;
+footer {
+
     margin-left: 10px;
-    background-color: coral;
+    background-color: yellow;
 }
