@@ -1,0 +1,17 @@
+div.ueberschrift {
+    background-color: #f5f5f5;
+    min-width: 150px;
+    max-width: 450px;
+    font-family: “Helvetica Neue”, Helvetica, Arial, sans-serif;
+    margin: 100,0,100,100;
+}
+h1.titel {
+    font-size: 100px;
+    text-align: center;
+    color: #4d4d4d;
+
+}
+ul {
+    list-style: none;
+
+}
