@@ -4,6 +4,8 @@ div.ueberschrift {
     max-width: 450px;
     font-family: “Helvetica Neue”, Helvetica, Arial, sans-serif;
     margin: 100,0,100,100;
+    border-width:5px;
+    border-style:solid;
 }
 h1.titel {
     font-size: 100px;
@@ -13,5 +15,8 @@ h1.titel {
 }
 ul {
     list-style: none;
+
+}
+li {
 
 }
