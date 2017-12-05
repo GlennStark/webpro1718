@@ -4,8 +4,9 @@ div.ueberschrift {
     max-width: 450px;
     font-family: “Helvetica Neue”, Helvetica, Arial, sans-serif;
     margin: 100,0,100,100;
-    border-width:5px;
+    border-width:1px;
     border-style:solid;
+
 }
 h1.titel {
     font-size: 100px;
@@ -13,10 +14,19 @@ h1.titel {
     color: #4d4d4d;
 
 }
-ul {
-    list-style: none;
+
+
+div.items {
+    checkbox-float: left;
+    font-size: 24px;
 
 }
-li {
+form {
+    padding: 0px;
+    font-size: 140%;
+    font-weight: 300;
+    text-align: left;
+    color: #fff;
+
 
 }
