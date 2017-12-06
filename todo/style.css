@@ -18,7 +18,7 @@ h1.titel {
 
 div.items {
    display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     font-size: 24px;
 
 }
@@ -46,7 +46,5 @@ display: flex;
     font-weight: 300;
 
     color: #fff;
-    margin: 0 auto;
-
 
 }
