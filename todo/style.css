@@ -41,7 +41,7 @@ button:hover {
 }
 form {
 display: flex;
-    justify-content: center;
+    justify-content: left;
     font-size: 140%;
     font-weight: 300;
 
